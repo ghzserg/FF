@@ -31,6 +31,7 @@
 - [1.1.9](https://github.com/ghzserg/FF/releases/download/R/AD5X-1.1.9-1.1.1-3.0.7-20251201-Factory.tgz)
 - [1.2.0](https://github.com/ghzserg/FF/releases/download/R/AD5X-1.2.0-1.1.1-3.0.7-20251212-Factory.tgz)
 - [1.2.1](https://github.com/ghzserg/FF/releases/download/R/AD5X-1.2.1-1.1.1-3.0.7-20251217-Factory.tgz)
+- [3.0.3](https://github.com/ghzserg/FF/releases/download/R/AD5X-3.0.3-1.1.1-3.0.7-20260119.tgz)
 
 ## AD5M native firmware (AD5M родная прошивка)
 - [3.1.3](https://github.com/ghzserg/FF/releases/download/R/Adventurer5M-3.1.3-2.2.3-20250107-Factory.tgz)
@@ -39,6 +40,7 @@
 - [3.2.5](https://github.com/ghzserg/FF/releases/download/R/Adventurer5M-3.2.5-2.2.3-20251205-Factory.tgz)
 - [3.2.6](https://github.com/ghzserg/FF/releases/download/R/Adventurer5M-3.2.6-2.2.3-20251212-Factory.tgz)
 - [3.2.7](https://github.com/ghzserg/FF/releases/download/R/Adventurer5M-3.2.7-2.2.3-20251217-Factory.tgz)
+- [5.0.3](https://github.com/ghzserg/FF/releases/download/R/Adventurer5M-5.0.3-2.2.3-20260122.tgz)
 
 ## AD5MPro native firmware (AD5MPro родная прошивка)
 - [3.1.3](https://github.com/ghzserg/FF/releases/download/R/Adventurer5MPro-3.1.3-2.2.3-20250107-Factory.tgz)
@@ -46,6 +48,7 @@
 - [3.2.4](https://github.com/ghzserg/FF/releases/download/R/Adventurer5MPro-3.2.4-2.2.3-20251114-Factory.tgz)
 - [3.2.5](https://github.com/ghzserg/FF/releases/download/R/Adventurer5MPro-3.2.5-2.2.3-20251126-Factory.tgz)
 - [3.2.7](https://github.com/ghzserg/FF/releases/download/R/Adventurer5MPro-3.2.7-2.2.3-20251217-Factory.tgz)
+- [5.0.3](https://github.com/ghzserg/FF/releases/download/R/Adventurer5MPro-5.0.3-2.2.3-20260122.tgz)
 
 # Installing full firmware on AD5X
 
@@ -57,6 +60,8 @@ Download to flash drive
 - After the update, if you need to reflash the MCU, install [AD5X](https://github.com/ghzserg/FF/releases/download/R/AD5X-1.1.7-1.1.0-3.0.6-20250912-Factory.tgz)
 
 # Установка полной прошивки на AD5X
+
+Это раскирпичиватель 
 
 Установка занимает много времени до часа.
 
@@ -76,6 +81,8 @@ Download to flash drive
 - After the update, if you need to reflash the MCU, install [Adventurer5M-3.1.9-2.2.3-20250807-Factory.tgz](https://github.com/ghzserg/FF/releases/download/R/Adventurer5M-3.1.9-2.2.3-20250807-Factory.tgz)
 
 # Установка полной прошивки на FF5M
+
+Это раскирпичиватель 
 
 Установка занимает много времени до часа.
 
